@@ -2,7 +2,7 @@
 - 👀 Kastamonu Üniversitesi Bilgisayar Programcılığı Son sınıf öğrencisiyim.
 - 🌱 Boş zamanlarımda sıksık yazılım dalında projeler geliştirmekten hoşlanıyorum.
 - 💞️ Yazılım Sektörüne katkıda bulunmak istiyorum
-- 📫 Banamurat.balas2001@gmail.com mail adresinden ulaşabilirsiniz. 
+- 📫 Bana murat.balas2001@gmail.com mail adresinden ulaşabilirsiniz. 
 
 <!---
 MuratBalas/MuratBalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
